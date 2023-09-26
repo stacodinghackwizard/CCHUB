@@ -1,0 +1,23 @@
+.signUp{
+    background-color: white !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+    width: 100%;
+}
+.signUp form{
+    border: 1px solid gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+}
+
+.signUp{
+    background-color: white;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    color: black;
+}

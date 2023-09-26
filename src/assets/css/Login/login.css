@@ -1,0 +1,23 @@
+.login{
+    background-color: white !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+    width: 100%;
+}
+.login form{
+    border: 1px solid gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+}
+
+.signBut{
+    background-color: white;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    color: black;
+}
